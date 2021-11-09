@@ -1,0 +1,25 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #a8a8a8;
+}
+#projects {
+  background-color: #a8a8a8;
+}
+section {
+  padding-top: 5rem;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+.fa-instagram {
+  color: red;
+}
